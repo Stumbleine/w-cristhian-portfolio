@@ -1,0 +1,132 @@
+[
+  {
+    "info": {
+      "name": "Cristhian",
+      "lastName": "Mercado Cespedes",
+      "age": 24,
+      "country": "Bolivia-cochabamba",
+      "social": {
+        "github": "https://github.com/Stumbleine",
+        "linkedin": "https://www.linkedin.com/in/cristhian-mercado-cespedes-21a77b1b7",
+        "gitlab": "https://gitlab.com/Stumbleine",
+        "email": "w.cosmoswaves@gmail.com",
+        "discord": "https://discord.com/channels/chang#3378"
+      },
+      "cv": {
+        "cvSpnish": "./pdfs/CV-spanish.pdf",
+        "cvEnglish": "./pdfs/CV-english.pdf"
+      },
+      "skills": {
+        "frontend": [
+          "HTML",
+          "Javascript",
+          "Typescript",
+          "React",
+          "Vue",
+          "Angular",
+          "Material"
+        ],
+        "backend": [
+          "Java",
+          "C#",
+          "MySQL",
+          "Postgresql",
+          "SpringBoot",
+          ".NET core"
+        ]
+      },
+      "tools": ["Git", "Jira", "Figma", "taiga"],
+      "education": [
+        {
+          "name": "Universidad Mayor de San Simon",
+          "career": "Ingeniera de Sistemas",
+          "timeline": "2016-2022"
+        }
+      ]
+    },
+    "Navbar": {
+      "home": "Inicio",
+      "about": "Perfil",
+      "portfolio": "Portafolio",
+      "contact": "Contacto"
+    },
+    "home": {
+      "hello": "Hola a todos, mi nombre es",
+      "name": "Cristhian M. Cespedes",
+      "profession": "Diseñador y desarrollador web.",
+      "presentation": "Soy un ingeniero de sistemas enfocado en el diseño y construcción de aplicaciones web que generan experiencias digitales excepcionales, actualmente me encuentro ampliando mis conocimientos en el desarrollo backend con .NET core",
+      "btnAbout": "Perfil"
+    },
+    "about": {
+      "subtitle": "Perfil",
+      "p1": "Hola, soy cristhian mercado cespedes un ingeniero de sistemas con residencia en Bolivia, especializado en el desarrollo web, desde 2018 durante mi carrera tuve la suerte de aprender sobre tecnologias web y hasta la actualidad me he dedicado a aprender y pulir mis habilidades de programacion.",
+      "p2": "Aprendiendo por cuenta propia HTML CSS y Javascript me abrio paso hacia  frameworks de Frontend y posteriormente Backend. El diseño fue mi principal motivacion y en el camino aprendi sobre diseño UI/UX.",
+      "p3": "Actualmente me encuentro en busqueda de trabajo, y consolidando mis conocimientos de backend con .NET core framework.",
+      "p4": "Tecnologías que utilizo actualmente:",
+      "btnDownload": "Descargar CV"
+    },
+    "portfolio": {
+      "subtitle": "Proyectos",
+      "text": "Proyectos, practicas y colaboraciones que realice.",
+      "projects": [
+        {
+          "id": 1,
+          "img": "./imgs/waves.jpg",
+          "title": "Dactilosaurio",
+          "description": "Aplicacion para practicar dactilografia online con amigos, inspirada en la conocida app Velocidactil.",
+          "technologies": ["React", "NET core", "MUI"],
+          "url": null,
+          "github": "https://github.com/Stumbleine/Dactilosaurio",
+          "gitlab": null
+        },
+        {
+          "id": 2,
+          "img": "./imgs/waves.jpg",
+          "title": "Sistema de cotizaciones",
+          "description": "Sistema web de cotizaciones para el apoyo al departamento de administracion financiera UMSS.",
+          "technologies": ["Angular", "Spring Boot", "Material"],
+          "url": null,
+          "github": "https://github.com/Stumbleine/sistema-cotizaciones",
+          "gitlab": null
+        },
+        {
+          "id": 3,
+          "img": "./imgs/waves.jpg",
+          "title": "Restaurant app",
+          "description": "Practica de consumo de API REST en un sistema de gestion de productos de comida y su delivery para un restaurante.",
+          "technologies": ["Vue", "Spring Boot", "Vuetify"],
+          "url": null,
+          "github": "https://github.com/Stumbleine/FR-delivery",
+          "gitlab": null
+        },
+        {
+          "id": 4,
+          "img": "./imgs/waves.jpg",
+          "title": "IA reconocimiento facial",
+          "description": "Practica de una app web para realizar examenes online con reconocimiento facial basado en un sistema multiagentes.",
+          "technologies": ["Angular", "Spring Boot", "faceapi"],
+          "url": null,
+          "github": "https://github.com/Stumbleine/Dactilosaurio",
+          "gitlab": null
+        },
+        {
+          "id": 5,
+          "img": "./imgs/waves.jpg",
+          "title": "Gestor de servicio SAMBA",
+          "description": "Practica de una aplicacion para  administrar el servicio SAMBA para la distribucion linux OpenSuse 15",
+          "technologies": ["C", "HTML", "Bootstrap"],
+          "url": null,
+          "github": "https://github.com/Stumbleine/ProyectoASO-web-SAMBA",
+          "gitlab": null
+        }
+      ]
+    },
+    "contact": {
+      "subtitle": "Contacto",
+      "p": "Actualmente me encuentro en la busqueda de trabajo, dejo aqui mis datos para cualquier consulta, oferta de trabajo, colaboracion o simplemente saludar. Estoy siempre pendiente de mi correo.",
+      "btnHello": "Say hello"
+    },
+
+    "components": {}
+  }
+]

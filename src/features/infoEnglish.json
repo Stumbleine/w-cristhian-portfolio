@@ -1,0 +1,132 @@
+[
+  {
+    "info": {
+      "name": "Cristhian",
+      "lastName": "Mercado Cespedes",
+      "age": 24,
+      "country": "Bolivia-cochabamba",
+      "social": {
+        "github": "https://github.com/Stumbleine",
+        "linkedin": "https://www.linkedin.com/in/cristhian-mercado-cespedes-21a77b1b7",
+        "gitlab": "https://gitlab.com/Stumbleine",
+        "email": "w.cosmoswaves@gmail.com",
+        "discord": "https://discord.com/channels/chang#3378"
+      },
+      "cv": {
+        "cvSpnish": "./pdfs/CV-spanish.pdf",
+        "cvEnglish": "./pdfs/CV-english.pdf"
+      },
+      "skills": {
+        "frontend": [
+          "HTML",
+          "Javascript",
+          "Typescript",
+          "React",
+          "Vue",
+          "Angular",
+          "Material"
+        ],
+        "backend": [
+          "Java",
+          "C#",
+          "MySQL",
+          "Postgresql",
+          "SpringBoot",
+          ".NET core"
+        ]
+      },
+      "tools": ["Git", "Jira", "Figma", "taiga"],
+      "education": [
+        {
+          "name": "Universidad Mayor de San Simon",
+          "career": "Ingeniera de Sistemas",
+          "timeline": "2016-2022"
+        }
+      ]
+    },
+    "Navbar": {
+      "home": "Home",
+      "about": "About",
+      "portfolio": "Portfolio",
+      "contact": "Contact"
+    },
+    "home": {
+      "hello": "Hi everyone! my name is",
+      "name": "Cristhian M. Cespedes",
+      "profession": "Designer and Developer Web.",
+      "presentation": "I am a systems engineer focused on the design and construction of web applications that generate exceptional digital experiences, I am currently expanding my knowledge in backend development with .NET core.",
+      "btnAbout": "About me"
+    },
+    "about": {
+      "subtitle": "About me",
+      "p1": "Hello, I am Cristhian Mercado Cespedes, a systems engineer residing in Bolivia, specialized in web development, since 2018 during my career I was lucky enough to learn about web technologies and until now I have dedicated myself to learning and polishing my programming skills.",
+      "p2": "Learning HTML CSS and Javascript on my own opened the way to Frontend frameworks and later Backend. Design was my main motivation and along the way I learned about UI/UX design..",
+      "p3": "I am currently looking for a job, and consolidating my knowledge of backend with .NET core framework.",
+      "p4": "Technologies I currently use:",
+      "btnDownload": "Download CV"
+    },
+    "portfolio": {
+      "subtitle": "Projects",
+      "text": "Projects, practices and collaborations that I carried out.",
+      "projects": [
+        {
+          "id": 1,
+          "img": "./imgs/waves.jpg",
+          "title": "Dactilosaurio",
+          "description": "Application to practice typing online with friends, inspired by the well-known Velocidactil app.",
+          "technologies": ["React", "NET core", "MUI"],
+          "url": null,
+          "github": "https://github.com/Stumbleine/Dactilosaurio",
+          "gitlab": null
+        },
+        {
+          "id": 2,
+          "img": "./imgs/waves.jpg",
+          "title": "Quotation system",
+          "description": "Web quotation system to support the UMSS financial administration department.",
+          "technologies": ["Angular", "Spring Boot", "Material"],
+          "url": null,
+          "github": "https://github.com/Stumbleine/sistema-cotizaciones",
+          "gitlab": null
+        },
+        {
+          "id": 3,
+          "img": "./imgs/waves.jpg",
+          "title": "Restaurant app",
+          "description": "API REST consumption practice in a food product management system and its delivery for a restaurant.",
+          "technologies": ["Vue", "Spring Boot", "Vuetify"],
+          "url": null,
+          "github": "https://github.com/Stumbleine/FR-delivery",
+          "gitlab": null
+        },
+        {
+          "id": 4,
+          "img": "./imgs/waves.jpg",
+          "title": "AI facial recognition",
+          "description": "Practice of a web app to perform online exams with facial recognition based on a multi-agent system.",
+          "technologies": ["Angular", "Spring Boot", "faceapi"],
+          "url": null,
+          "github": "https://github.com/Stumbleine/Dactilosaurio",
+          "gitlab": null
+        },
+        {
+          "id": 5,
+          "img": "./imgs/waves.jpg",
+          "title": "SAMBA Service Manager",
+          "description": "Practice of an application to manage the SAMBA service for the Linux distribution OpenSuse 15.1",
+          "technologies": ["C", "HTML", "Bootstrap"],
+          "url": null,
+          "github": "https://github.com/Stumbleine/ProyectoASO-web-SAMBA",
+          "gitlab": null
+        }
+      ]
+    },
+    "contact": {
+      "subtitle": "Contact",
+      "p": "I am currently looking for a job, I leave my data here for any query, job offer, collaboration or just to say hello. I am always aware of my mail.",
+      "btnHello": "Say hello"
+    },
+
+    "components": {}
+  }
+]
